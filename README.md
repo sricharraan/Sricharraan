@@ -74,10 +74,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sricharraanramaswamy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="sricharraan2399@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="sricharraanr@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=sricharraanr@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
 
@@ -85,12 +85,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/anshulj07/anshulj07/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/sricharraan/Sricharraan/output/snake.yml" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/anshulj07/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/sricharraan/count.svg?"  />
 </div>
 
 ###
